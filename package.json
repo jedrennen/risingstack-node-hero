@@ -18,6 +18,8 @@
   },
   "homepage": "https://github.com/jedrennen/risingstack-node-hero#readme",
   "dependencies": {
+    "express": "^4.14.0",
+    "express-handlebars": "^3.0.0",
     "lodash": "^4.15.0"
   },
   "devDependencies": {
